@@ -19,7 +19,7 @@ Lightweight fake news detector using TF-IDF + Logistic Regression and a streamli
     - Download dataset
 4. Train:
     - `python src/train_model.py`
-5.Run app:
+5. Run app:
     - `streamlit run app/streamlit_app.py`
 
 ## Deployment
