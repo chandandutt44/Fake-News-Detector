@@ -1,0 +1,12 @@
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.Python
+env/
+env.bak/
+.ipynb_checkpoints/
+model.joblib
+.DS_Store
+.vscode/
+results/
