@@ -6,7 +6,6 @@ venv/
 env/
 env.bak/
 .ipynb_checkpoints/
-model.joblib
 .DS_Store
 .vscode/
 results/
